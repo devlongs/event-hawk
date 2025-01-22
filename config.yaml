@@ -1,0 +1,8 @@
+ethereum:
+  wss_url: ""
+  contract_address: ""
+  event_signatures:
+    - ""
+
+notifications:
+  slack_webhook: ""
